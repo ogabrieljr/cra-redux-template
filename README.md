@@ -1,7 +1,6 @@
-### Projects template
+### Projects Template
 
 This is a template, which lays out a structure for a main project using cra-template-redux. The generated files were deleted.
-Th
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
