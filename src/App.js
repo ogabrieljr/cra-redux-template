@@ -5,7 +5,7 @@ import {
   increment,
   selectCount,
   incrementByAmount,
-  incrementAsync
+  incrementAsync,
 } from "./counter/counterSlice";
 
 export default function App() {
